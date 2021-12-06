@@ -1,0 +1,29 @@
+.navbar-nav{
+    opacity: 1;
+}
+.navbar {
+    background-color:black !important;
+    opacity: 1;
+     margin: 0;
+    padding: 0;
+}
+.nav {
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.navbar-toggler{
+    margin: 0;
+    padding: 0;
+}
+
+
